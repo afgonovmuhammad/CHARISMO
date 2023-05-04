@@ -1,0 +1,8 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.contener{
+  max-width: 2400px;
+  margin: 0 auto;
+}

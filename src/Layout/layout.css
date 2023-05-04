@@ -1,0 +1,15 @@
+.btn,.btnF{
+    border: 1px solid #2389FF;
+border-radius: 8px;
+color: #304560;
+}
+
+.btnF {
+    font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+
+color: #FFFCFC;
+background: #2389FF;
+border-radius: 5px;
+}
